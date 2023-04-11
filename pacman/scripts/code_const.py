@@ -1,0 +1,9 @@
+LOCATION_BUTTON = (175, 500) # locattion for every button
+SETBACK_BUTTON = 100 # setback for last buttom from other location
+WIDTH, HEIGHT = 800, 800 # screen size
+COUNT_CAGES_WIDTH = 28 # count cages by width
+COUNT_CAGES_HEIGHT = 31 # count cages by height
+SIZE_CAGE = 18 # speed pacman to best print without delay
+PACMAN_SPEED = 0.45 # speed pacman
+TIME_TO_WAIT = 3 # to print photo win/gamover
+SPEED_ENEMY = 0.3 # speed enemy
